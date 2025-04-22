@@ -1,0 +1,48 @@
+<!DOCTYPE html>
+<html lang="es">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Gestión de Bonificaciones - Resultados</title>
+    <link rel="stylesheet" href="styles.css">
+</head>
+<body>
+    <div class="container">
+        <h1>Gestión de Bonificaciones de Empleados</h1>
+        <h2>Resultados del Cálculo</h2>
+        
+        <div id="results" class="results-container">
+            <div class="result-row">
+                <strong>Rut:</strong> <span id="result-rut"></span>
+            </div>
+            <div class="result-row">
+                <strong>Nombre Empleado:</strong> <span id="result-name"></span>
+            </div>
+            <div class="result-row">
+                <strong>Tipo bonificación:</strong> <span id="result-bonus-percentage"></span>
+            </div>
+            <div class="result-row">
+                <strong>Salario base:</strong> <span id="result-base-salary"></span>
+            </div>
+            <div class="result-row">
+                <strong>Bonificación:</strong> <span id="result-bonus-amount"></span>
+            </div>
+            <div class="result-row">
+                <strong>Bonificación extra:</strong> <span id="result-extra-bonus"></span>
+            </div>
+            <div class="result-row">
+                <strong>Salario final:</strong> <span id="result-final-salary"></span>
+            </div>
+        </div>
+        
+        <h2>Todos los Empleados Registrados</h2>
+        <div id="all-employees-container">
+            <!-- Aquí se cargarán dinámicamente todos los empleados -->
+        </div>
+        
+        <a href="/" class="btn">Volver al formulario</a>
+    </div>
+
+    <script src="result.js"></script>
+</body>
+</html>

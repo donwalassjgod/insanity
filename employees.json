@@ -1,0 +1,52 @@
+[
+  {
+    "rut": "208070169",
+    "name": "jose",
+    "years": 4,
+    "baseSalary": 1000,
+    "bonusPercentage": 5,
+    "bonusAmount": 50,
+    "extraBonus": 0,
+    "finalSalary": 1050
+  },
+  {
+    "rut": "902332331",
+    "name": "pedro",
+    "years": 52,
+    "baseSalary": 200000,
+    "bonusPercentage": 15,
+    "bonusAmount": 30000,
+    "extraBonus": 0,
+    "finalSalary": 230000
+  },
+  {
+    "rut": "305060213",
+    "name": "jony",
+    "years": 30,
+    "baseSalary": 502000,
+    "bonusPercentage": 15,
+    "bonusAmount": 75300,
+    "extraBonus": 0,
+    "finalSalary": 577300
+  },
+  {
+    "rut": "208070169",
+    "name": "pene",
+    "years": 43,
+    "baseSalary": 99992222,
+    "bonusPercentage": 15,
+    "bonusAmount": 14998833.3,
+    "extraBonus": 0,
+    "finalSalary": 114991055.3
+  },
+  {
+    "rut": "10000232",
+    "name": "goku",
+    "years": 54,
+    "baseSalary": 304000,
+    "bonusPercentage": 15,
+    "bonusAmount": 45600,
+    "extraBonus": 0,
+    "finalSalary": 349600
+  }
+]
